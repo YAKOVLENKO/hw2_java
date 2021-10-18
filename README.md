@@ -11,3 +11,5 @@ Java-11
 **./gradlew :LoggerApplication:run --args='file_logger filetag'** - для вывода в файл
 
 **./gradlew :LoggerApplication:run --args='all_logger mytag'** - вывод и в консоль, и в файл
+
+Файл с логами лежит в LoggerApplication (java) - data.txt
